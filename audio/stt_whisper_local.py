@@ -1,6 +1,6 @@
 import requests
 
-DEEPGRAM_API_KEY = "41300fb277755c217ebbe88bbd917ad25c7cfeca"  # 🔑 Paste actual key here
+DEEPGRAM_API_KEY = ""  # 🔑 Paste actual key here
 
 def transcribe_audio(audio_path):
     print(f"🧠 Transcribing: {audio_path} (via Deepgram API)")
