@@ -3,7 +3,7 @@
 import openai
 
 openai.api_base = "https://openrouter.ai/api/v1"
-openai.api_key = ""  # 🔐 Paste your actual OpenRouter key here
+openai.api_key = "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"  # 🔐 Paste your actual OpenRouter key here
 
 def generate_fallback_question():
     system_prompt = "You are a professional HR interviewer. Generate short, helpful technical or behavioral interview questions."
