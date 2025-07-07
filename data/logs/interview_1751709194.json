@@ -1,0 +1,20 @@
+[
+    {
+        "question": "Tell me a bit about your background.",
+        "answer": "i like food",
+        "hesitation_score": 41.35,
+        "feedback": "Thank you for sharing your background. Unfortunately, your response of \"I like food\" does not fully address the question. To provide a more effective answer, I would suggest focusing on your relevant education, work experience, and skills that make you a good fit for this role. Speaking with more confidence and providing more detailed information about your background will help the interviewer better understand your qualifications. I'm happy to provide more feedback to help you prepare for the next interview question."
+    },
+    {
+        "question": "Explain the key architectural components and design decisions in your English to French Translator project.",
+        "answer": "i used it neural networks",
+        "hesitation_score": 71.97,
+        "feedback": "Here is some feedback on the candidate's response:\n\nThe response is brief and lacks detail on the key architectural components and design decisions in the English to French Translator project. The candidate sounds hesitant, indicating a lack of confidence in their answer. To improve, I would suggest the candidate provide more specifics on the neural network architecture used, the model training process, and the design trade-offs considered. Explaining the reasoning behind the key technical decisions would help demonstrate a deeper understanding of the project."
+    },
+    {
+        "question": "What are your core values and how do they align with our company culture?",
+        "answer": "i don't want it",
+        "hesitation_score": 56.3,
+        "feedback": "Thank you for sharing your response. Here is some feedback:\n\n1. The response of \"i don't want it\" does not directly address the question about your core values and how they align with the company culture. It's important to provide a thoughtful answer that demonstrates your understanding of the question and your ability to discuss your values.\n\n2. The hesitation score of 56.3% indicates some uncertainty or lack of confidence in your response. It's important to speak clearly and confidently when answering interview questions.\n\n3. For improvement, I would suggest preparing some examples of your core values and how they're a good fit for the company's culture. This will help you provide a more complete and compelling answer.\n\nOverall, I encourage you to take some time to reflect on your values and how they align with the role and organization. Providing a thoughtful, well-prepared response will help demonstrate your fit for the position."
+    }
+]
