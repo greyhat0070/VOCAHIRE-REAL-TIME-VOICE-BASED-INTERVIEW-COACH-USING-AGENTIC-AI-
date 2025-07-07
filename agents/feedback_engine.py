@@ -2,7 +2,7 @@ import openai
 
 # ✅ Use OpenRouter endpoint
 openai.api_base = "https://openrouter.ai/api/v1"
-openai.api_key = "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"  # 🔐 Paste your actual OpenRouter key here
+openai.api_key = ""  # 🔐 Paste your actual OpenRouter key here
 
 # ✅ Claude-based feedback generator
 def generate_feedback(question, answer, hesitation_score):
