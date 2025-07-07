@@ -6,7 +6,7 @@ import os
 
 # ✅ Claude via OpenRouter
 openai.api_base = "https://openrouter.ai/api/v1"
-openai.api_key = "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"  # Your key
+openai.api_key = ""  # Your key
 
 # ✅ Load resume only when needed
 def load_resume_data():
