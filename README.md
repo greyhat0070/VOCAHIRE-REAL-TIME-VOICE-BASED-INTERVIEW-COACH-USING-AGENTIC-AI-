@@ -26,8 +26,10 @@
 | PDF Parsing      | `PyMuPDF (fitz)`                    |
 | AI Logic         | Modular agents (`interview_agent.py`, `resume_qa_generator.py`, etc.) |
 | Logging & Data   | JSON, `.wav` recordings             |
-
+| LLM Integration  | Claude 3 Haiku via OpenRouter API, Flan-T5 |
 ---
+
+
 
 ## 📁 Project Structure
 
